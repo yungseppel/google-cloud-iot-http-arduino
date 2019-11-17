@@ -10,7 +10,6 @@
 #include <base64.h>
 
 #include <CloudIoTCore.h>
-#include <CloudIoTCoreMqtt.h>
 #include "ciotc_config.h" // Update this file with your configuration
 
 // Cloud IoT Core parameters
